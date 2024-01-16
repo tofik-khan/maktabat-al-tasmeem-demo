@@ -1,6 +1,6 @@
 {
   "name": "@tofik-khan/maktabat-al-tasmeem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MAT - Maktabat Al-Tasmeem Repository for Design Components for Ahmadiyya Muslim Community",
   "main": "dist/index.js",
   "files": [
@@ -27,7 +27,5 @@
   "peerDependencies": {
     "react": "^18.2.0"
   },
-  "dependencies": {
-    
-  }
+  "dependencies": {}
 }
