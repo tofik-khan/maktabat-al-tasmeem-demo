@@ -1,6 +1,6 @@
 {
   "name": "demo-maktabat-al-tasmeem",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MAT - Maktabat Al-Tasmeem Repository for Design Components for Ahmadiyya Muslim Community",
   "main": "dist/index.js",
   "files": [
