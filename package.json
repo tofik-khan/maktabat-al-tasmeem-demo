@@ -1,5 +1,5 @@
 {
-  "name": "@tofik-khan/maktabat-al-tasmeem",
+  "name": "demo-maktabat-al-tasmeem",
   "version": "0.0.2",
   "description": "MAT - Maktabat Al-Tasmeem Repository for Design Components for Ahmadiyya Muslim Community",
   "main": "dist/index.js",
